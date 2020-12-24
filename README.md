@@ -1,6 +1,8 @@
 # Title: Deep Learning based Classification of Papaya Disease Recognition.
 This is my 1st publication and We have used CNN for disease detection of Papaya. we have achieved 91% accuracy for our desired CNN model. 
 
+# Please visit the below link for showing Papaya image dataset
+[Papaya dataset link](https://github.com/imdadulhaque1/papaya)
 
 # below the acceptance letter of our proposed model.
 [Acceptance Letter](https://drive.google.com/file/d/1Uo1Od5bheyY361XSx6eZ-F0Jz_-B8eZR/view?usp=sharing)
