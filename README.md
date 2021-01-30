@@ -8,7 +8,7 @@ This Publication is available in online by **IEEE** and please [CLICK HERE](http
 [Papaya dataset link](https://github.com/imdadulhaque1/papaya)
 
 # below the acceptance letter of our proposed model.
-[Acceptance Letter](https://drive.google.com/file/d/1Uo1Od5bheyY361XSx6eZ-F0Jz_-B8eZR/view?usp=sharing)
+![Screenshot from 2021-01-30 22-42-27](https://user-images.githubusercontent.com/45633928/106362420-ed9bb100-634c-11eb-9aa4-c673266d0c25.png)
 
 # And now, this is Presentation Certificate.
 ![273-2](https://user-images.githubusercontent.com/45633928/103079973-1f5b8280-45ff-11eb-9b4d-8a5bf209a4bd.jpg)
